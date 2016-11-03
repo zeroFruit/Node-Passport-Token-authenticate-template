@@ -4,6 +4,24 @@
 Examples of access token, refresh token authentication
 
 
+#### What is contained ?
+
+```
+  app.js
+  controllers/
+    index.js
+    auth.js
+  helpers/
+    config.js
+    db.js
+    respond.js
+  middlewares/
+    jwtauth.js
+    requireAuth.js
+  models/
+    auth.js
+```
+
 <br>
 
 __great help from__
